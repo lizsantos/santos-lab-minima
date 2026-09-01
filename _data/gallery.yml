@@ -1,0 +1,144 @@
+- file: bathypterois.png
+  species: "Bathypterois pectinatus"
+  common: "tripodfish"
+  museum: "SIO 72-184"
+
+- file: benthalbella.png
+  species: "Benthalbella dentata"
+  common: "pearleye"
+  museum: "SIO 88-25"
+
+- file: coccorella.png
+  species: "Coccorella atrata"
+  common: "sabertooth fish"
+  museum: "SIO 94-102"
+
+- file: hime.png
+  species: "Hime diactithrix"
+  common: "flagfin"
+  museum: "SIO 24-3"
+
+- file: lestidiops.png
+  species: "Lestidiops pacificum"
+  common: "barracudina"
+  museum: "SIO 75-149"
+
+- file: notolepis.png
+  species: "Notolepis annulata"
+  common: "barracudina"
+  museum: "SIO 84-54"
+
+- file: odontostomops.png
+  species: "Odontostomops normalops"
+  common: "sabertooth fish"
+  museum: "SIO 94-101"
+
+- file: omosudis.png
+  species: "Omosudis lowii"
+  common: "hammerjaw"
+  museum: "SIO 71-294"
+
+- file: trachinocephalus.png
+  species: "Trachinocephalus myops"
+  common: "lizardfish"
+  museum: "SIO 70-183"
+
+- file: antennatus.png
+  species: "Antennatus strigatus"
+  common: "frogfish"
+  museum: "SIO 61-280"
+
+- file: gigantactis.png
+  species: "Gigantactis ios"
+  common: "whipnose anglerfish"
+  museum: "SIO 90-97"
+
+- file: halieutichthys.png
+  species: "Halieutichthys aculeatus"
+  common: "batfish"
+  museum: "SIO 65-511-65A"
+
+- file: himantolophus.png
+  species: "Himantolophus borealis"
+  common: "footballfish"
+  museum: "SIO 77-157"
+
+- file: lasiognathus.png
+  species: "Lasiognathus intermedius"
+  common: "wolftrap anglerfish"
+  museum: "SIO 69-342"
+
+- file: lophiomus.png
+  species: "Lophiomus setigerus"
+  common: "monkfish"
+  museum: "SIO 85-138"
+
+- file: vinciguerria.png
+  species: "Vinciguerria lucetia"
+  common: "lightfish"
+  museum: "SIO 95-49"
+
+- file: argyropelecus.png
+  species: "Argyropelecus lychnus"
+  common: "hatchetfish"
+  museum: "SIO 72-41"
+
+- file: astonesthes.png
+  species: "Astronesthes gemmifer"
+  common: "snaggletooth"
+  museum: "SIO 68-539"
+
+- file: bathophilus_brevis.png
+  species: "Bathophilus brevis"
+  common: "short bodied dragonfish"
+  museum: "SIO 89-60"
+
+- file: bathophilus_flemingi.png
+  species: "Bathophilus flemingi"
+  common: "dragonfish"
+  museum: "SIO 93-278"
+
+- file: chauliodus.png
+  species: "Chauliodus sloani"
+  common: "viperfish"
+  museum: "SIO 84-53"
+
+- file: diplophos.png
+  species: "Diplophos taenia"
+  common: "portholefish"
+  museum: "SIO 11-203"
+
+- file: gonostoma.png
+  species: "Gonostoma ebelingi"
+  common: "bristlemouth"
+  museum: "SIO 76-107"
+
+- file: idiacanthus.png
+  species: "Idiacanthus antrostomus"
+  common: "dragonfish"
+  museum: "SIO 93-252"
+
+- file: ichthyococcus.png
+  species: "Ichthyococcus irregularis"
+  common: "fireflyfish"
+  museum: "SIO 93-255"
+
+- file: malacosteus.png
+  species: "Malacosteus niger"
+  common: "loosejaw dragonfish"
+  museum: "SIO 73-159"
+
+- file: melanostomias.png
+  species: "Melanostomias margaritifer"
+  common: "dragonfish"
+  museum: "SIO 70-341"
+
+- file: photichthys.png
+  species: "Photichthys argenteus"
+  common: "lightfish"
+  museum: "SIO 69-28-10"
+
+- file: sternoptyx.png
+  species: "Sternoptyx pseudobscura"
+  common: "hatchetfish"
+  museum: "SIO 87-43"
