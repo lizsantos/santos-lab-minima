@@ -21,8 +21,8 @@
 title: Santos Lab at Ohio State University
 description: >- # this means to ignore newlines until "baseurl:"
   The Santos Lab studies the evolution of biodiversity inspired by natural history of fishes.
-baseurl: "/santos-lab-minima" # the subpath of your site, e.g. /blog
-url: "https://lizsantos.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://macroevolab.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
