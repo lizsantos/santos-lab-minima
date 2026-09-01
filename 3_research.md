@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-We are driven by fundamental questions in biology that apply across systems, specifically explaining the uneven distribution of biodiversity on Earth. Fishes are the model of choice because their >30,000 species are distributed across all aquatic habitats, providing natural experiments to compare the outcome of evolution in different settings.
+We are driven by fundamental questions in biology, specifically explaining the uneven distribution of biodiversity on Earth. Fishes are the model of choice because their >30,000 species are distributed across all aquatic habitats, providing natural experiments to compare the outcome of evolution in different settings.
 
 Research falls under three themes: **Patterns**, **Process**, and **Scale**.
 
@@ -14,7 +14,7 @@ Research falls under three themes: **Patterns**, **Process**, and **Scale**.
 
 <div style="display: flex; gap: 30px; margin: 20px 0; align-items: flex-start;">
   <div style="flex: 1;">
-    <p>What are the trends in taxonomic and morphological diversification across deep-sea fishes?<br><br>To what extent does evolution repeat itself in unrelated lineages (convergent evolution)?<br><br>Do challenging environments limit diversification, or do they provide new opportunities?<br><br>To answer these questions, we estimate phylogenies, compare morphologies, and reconstruct the history of deep-sea occupation to infer the trajectories of macroevolution in this environment. The deep sea has been colonized >300 times by fishes, providing natural replication to study how macroevolution unfolds when fish go deep.</p>
+    <p>What are the trends in lineage and morphological diversification across deep-sea fishes?<br><br>To what extent does evolution repeat itself in unrelated lineages (convergent evolution)?<br><br>Do challenging environments limit diversification, or do they provide new opportunities?<br><br>To answer these questions, we estimate phylogenies, compare morphologies, and reconstruct the history of deep-sea occupation to reveal the trajectory of macroevolution in this environment. The deep sea has been colonized >300 times by fishes, providing natural replication to study how evolution unfolds when fish go deep.</p>
   </div>
   <div style="flex: 1.5; text-align: center;">
     <img src="/assets/images/research/deepsea_asr.png" style="max-width: 100%; height: auto;">
