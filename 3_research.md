@@ -4,7 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-We are driven by fundamental questions in biology, specifically explaining the uneven distribution of biodiversity on Earth. Fishes are the model of choice because their >30,000 species are distributed across all aquatic habitats, providing natural experiments to compare the outcome of evolution in different settings.
+We are driven by fundamental problems in biology, specifically explaining the uneven distribution of biodiversity on Earth. 
+
+We are inspired by [natural history](https://www.journals.uchicago.edu/doi/abs/10.1086/741683). Fishes are the organism of choice because their >30,000 species are distributed across all aquatic habitats, providing natural experiments to compare the outcome of evolution in different settings. 
 
 Research falls under three themes: **Patterns**, **Process**, and **Scale**.
 
@@ -26,7 +28,7 @@ Research falls under three themes: **Patterns**, **Process**, and **Scale**.
 
 ## Process
 
-We aim to infer the mechanistic underpinnings of macroevolutionary trends. What ecological or evolutionary processes generated the diversity of deep-sea fishes? Are models developed for terrestrial or shallow-water systems, like adaptive radiation, suitable for explaining deep-sea diversification?
+We aim to infer the mechanistic underpinnings of macroevolutionary trends. What ecological or evolutionary processes generated the diversity of deep-sea fishes? Are models developed for terrestrial or shallow-water systems suitable for explaining deep-sea diversification?
 
 <div style="margin: 20px 0; text-align: center;">
   <img src="/assets/images/research/angler_teeth.png" style="max-width: 80%; height: auto;">
