@@ -11,7 +11,7 @@ permalink: /people/
 <div style="display: flex; gap: 30px; align-items: flex-start; margin-bottom: 30px;">
   <img src="/assets/images/lab_headshots/santos.jpg" style="width: 200px; flex-shrink: 0;">
   <div>
-    <p><strong>Elizabeth Santos</strong> (she/her)<br>
+    <p><strong>Dr. Elizabeth Santos</strong> (she/her)<br>
     Assistant Professor & Director of Fishes<br>
     Department of Evolution, Ecology and Organismal Biology<br>
     Museum of Biological Diversity<br>
