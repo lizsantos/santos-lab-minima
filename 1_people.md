@@ -30,7 +30,7 @@ permalink: /people/
 <div style="display: flex; gap: 30px; align-items: flex-start; margin-bottom: 30px;">
   <img src="/assets/images/lab_headshots/kuznar.jpg" style="width: 200px; flex-shrink: 0;">
   <div>
-    <p><strong>Shannon Kuznar</strong> (she/her)<br>
+    <p><strong>Dr. Shannon Kuznar</strong> (she/her)<br>
     Postdoctoral Researcher</p>
     <p>I am broadly interested in comparative morphology and physiology of vertebrates, in particular fishes. I enjoy studying and investigating how the nervous system evolves in different groups with unique physiologies and behaviors to allow these organisms to thrive in their respective environments. In the Santos Lab, I am using diceCT to non-invasively examine the neuromorphology of deep-sea fishes.</p>
     <p><a href="https://scholar.google.com/citations?user=Q-5vcGIAAAAJ&hl=en">Google Scholar</a></p>
@@ -45,7 +45,8 @@ permalink: /people/
   <div>
     <p><strong>Abi Huber</strong> (she/her)<br>
     Master's Student</p>
-    <p>Placeholder for Abi's bio</p>
+    <p>Before joining the Santos Lab, I worked at the GEC BioRepository at the University of Guam, collecting invertebrates in collaboration with NAVFAC. I enjoy working on the systematics and taxonomy of fishes and have worked extensively with the cryptobenthic reef-fish genus Istigobius. In the Santos Lab, my research focuses on deep-sea depauperons and the biogeography of snailfish (Liparidae) and eelpouts (Zoarcidae).</p>
+    <p><a href="https://scholar.google.com/citations?user=mOvlnaAAAAAJ&hl=en">Google Scholar</a></p>
     <p><strong>Contact:</strong> huber.597 "at" osu.edu</p>
   </div>
 </div>

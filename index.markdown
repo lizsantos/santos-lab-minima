@@ -87,4 +87,4 @@ Two new preprints!
 
 ### *August 2025*
 
-- The Santos Lab opens at Ohio State!
+- The Santos Lab opens at Ohio State! [See new faculty spotlight](https://eeob.osu.edu/newsletter/2025-2026-edition/new-faculty-spotlights)
