@@ -5,6 +5,5 @@ permalink: /museum/
 ---
 
 <script>
-  window.open("https://mbd.osu.edu/collections/fish-division", "_blank");
-  history.go(-1);
+window.location.href = "https://mbd.osu.edu/collections/fish-division";
 </script>
