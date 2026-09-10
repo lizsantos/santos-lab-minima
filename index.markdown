@@ -48,7 +48,7 @@ Our research interests include **macroevolution**, **diversification**, **biogeo
     The Ohio State University<br>
     <strong>Contact:</strong> santos.323 'at' osu.edu</p>
   </div>
-  <img src="/assets/images/lab_headshots/santos.jpg" style="width: 420px; flex-shrink: 0; margin-top: -30px;">
+  <img src="/assets/images/lab_headshots/santos_frontpage.jpg" style="width: 420px; flex-shrink: 0; margin-top: -30px;">
 </div>
 
 ---
