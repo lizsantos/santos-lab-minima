@@ -44,7 +44,7 @@ Our research interests include **macroevolution**, **diversification**, **biogeo
     <p><strong>Elizabeth Santos</strong> (she/her)<br>
     Assistant Professor & Director of Fishes<br>
     <a href="https://eeob.osu.edu">Department of Evolution, Ecology and Organismal Biology</a><br>
-    <a href="https://www.biosci.ohio-state.edu/musbiodiv/">Museum of Biological Diversity</a><br>
+    <a href="https://mbd.osu.edu/">Museum of Biological Diversity</a><br>
     The Ohio State University<br>
     <strong>Contact:</strong> santos.323 'at' osu.edu</p>
   </div>
