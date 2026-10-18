@@ -56,6 +56,11 @@ Our research interests include **macroevolution**, **diversification**, **biogeo
 # News
 
 
+### *October 2026*
+
+Shannon Kuznar was [featured on the CEMAS website](https://cemas.osu.edu/news/2026/10/microct-imaging-offers-new-clues-deep-sea-fish-behavior) for her work on deep-sea fish brains!
+
+
 ### *August 2026*
 
 New paper in *Evolution*! [Integration promotes morphological innovation in deep-sea anglerfishes](https://doi.org/10.1093/evolut/qpag139) 

@@ -32,7 +32,7 @@ permalink: /people/
   <div>
     <p><strong>Dr. Shannon Kuznar</strong> (she/her)<br>
     Postdoctoral Researcher</p>
-    <p>I am broadly interested in comparative morphology and physiology of vertebrates, in particular fishes. I enjoy studying and investigating how the nervous system evolves in different groups with unique physiologies and behaviors to allow these organisms to thrive in their respective environments. In the Santos Lab, I am using diceCT to non-invasively examine the neuromorphology of deep-sea fishes.</p>
+    <p>I am broadly interested in comparative morphology and physiology of vertebrates, in particular fishes. I enjoy studying and investigating how the nervous system evolves in different groups with unique physiologies and behaviors to allow these organisms to thrive in their respective environments. In the Santos Lab, I am using diceCT to non-invasively examine the neuromorphology of deep-sea fishes. <a href="https://cemas.osu.edu/news/2026/10/microct-imaging-offers-new-clues-deep-sea-fish-behavior">Read about Shannon's work with CEMAS!</a></p>
     <p><a href="https://scholar.google.com/citations?user=Q-5vcGIAAAAJ&hl=en">Google Scholar</a></p>
     <p><strong>Contact:</strong> kuznar.4 "at" osu.edu</p>
   </div>
